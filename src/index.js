@@ -10,10 +10,10 @@ import Reg from './Reg'
 ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>
-    <Link to = "/"> Home</Link>
+    <Link to = "/smart-bulb"> Home</Link>
     <Link to = "/register"> Register</Link>
     <Link to = "/history"> History</Link>
-    <Route exact path = "/" component = {App} />
+    <Route exact path = "/smart-bulb" component = {App} />
     <Route exact path = "/register" component = {Reg} />
     <Route exact path = "/history" component = {History} />
     
