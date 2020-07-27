@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/smart-bulb/static/css/main.802771ff.chunk.css",
-    "main.js": "/smart-bulb/static/js/main.d1c91217.chunk.js",
-    "main.js.map": "/smart-bulb/static/js/main.d1c91217.chunk.js.map",
+    "main.js": "/smart-bulb/static/js/main.472c2528.chunk.js",
+    "main.js.map": "/smart-bulb/static/js/main.472c2528.chunk.js.map",
     "runtime-main.js": "/smart-bulb/static/js/runtime-main.900289b3.js",
     "runtime-main.js.map": "/smart-bulb/static/js/runtime-main.900289b3.js.map",
     "static/css/2.23fba0bb.chunk.css": "/smart-bulb/static/css/2.23fba0bb.chunk.css",
     "static/js/2.e2a39d66.chunk.js": "/smart-bulb/static/js/2.e2a39d66.chunk.js",
     "static/js/2.e2a39d66.chunk.js.map": "/smart-bulb/static/js/2.e2a39d66.chunk.js.map",
     "index.html": "/smart-bulb/index.html",
-    "precache-manifest.2d54462fda2db1742fe8664e024cdc3b.js": "/smart-bulb/precache-manifest.2d54462fda2db1742fe8664e024cdc3b.js",
+    "precache-manifest.86b415eeaedb8aa0b5cff61dbf84b4c1.js": "/smart-bulb/precache-manifest.86b415eeaedb8aa0b5cff61dbf84b4c1.js",
     "service-worker.js": "/smart-bulb/service-worker.js",
     "static/css/2.23fba0bb.chunk.css.map": "/smart-bulb/static/css/2.23fba0bb.chunk.css.map",
     "static/css/main.802771ff.chunk.css.map": "/smart-bulb/static/css/main.802771ff.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.23fba0bb.chunk.css",
     "static/js/2.e2a39d66.chunk.js",
     "static/css/main.802771ff.chunk.css",
-    "static/js/main.d1c91217.chunk.js"
+    "static/js/main.472c2528.chunk.js"
   ]
 }

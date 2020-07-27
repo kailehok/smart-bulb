@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3f5b3f03a9d2c83440b33ef87b54c62",
+    "revision": "e56cde24d0e57be1f4ecbf63035e28c5",
     "url": "/smart-bulb/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/smart-bulb/static/css/2.23fba0bb.chunk.css"
   },
   {
-    "revision": "e86376153e52230d4313",
+    "revision": "31bc5dbd2b8ebb1c1152",
     "url": "/smart-bulb/static/css/main.802771ff.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/smart-bulb/static/js/2.e2a39d66.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e86376153e52230d4313",
-    "url": "/smart-bulb/static/js/main.d1c91217.chunk.js"
+    "revision": "31bc5dbd2b8ebb1c1152",
+    "url": "/smart-bulb/static/js/main.472c2528.chunk.js"
   },
   {
     "revision": "86c511ccc723151cca6c",
